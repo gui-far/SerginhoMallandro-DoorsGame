@@ -18,7 +18,7 @@ Download and simply run...
 ============================================================================================================================
 
 WHAT IS THIS ?!?!?!??!?!?!??!
-This is that doors game, where you have 3 ports, but one of them hide a present!
+This is that doors game, where you have 3 ports, but one of them hides a present!
 
 1. Choose the amount of ports.
 2. Choose the winning door.
